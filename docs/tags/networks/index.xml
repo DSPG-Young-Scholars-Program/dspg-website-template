@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networks on UVA Biocomplexity Institute</title>
+    <link>/tags/networks/</link>
+    <description>Recent content in networks on UVA Biocomplexity Institute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Results Section Two</title>
+      <link>/analyses/results-section-two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/analyses/results-section-two/</guid>
+      <description>One this page you may want to go more in-depth into one part of your project. For example, if you created isochrones or made an interactive map, you could highlight that here.
+Framing the Problem Here you will frame the problem you encountered and how you plan to solve it.
+ Data and Methods Here you will describe the data discoversy process, the data used, and the methods employed to solve your problem.</description>
+    </item>
+    
+    <item>
+      <title>Results Section Three</title>
+      <link>/analyses/results-section-three/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/analyses/results-section-three/</guid>
+      <description>One this page you may want to go more in-depth into one part of your project. For example, if you created isochrones or made an interactive map, you could highlight that here.
+Framing the Problem Here you will frame the problem you encountered and how you plan to solve it.
+ Data and Methods Here you will describe the data discoversy process, the data used, and the methods employed to solve your problem.</description>
+    </item>
+    
+  </channel>
+</rss>

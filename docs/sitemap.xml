@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/analyses/general-overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/analyses/results-section-one/</loc>
+  </url>
+  
+  <url>
+    <loc>/analyses/results-section-two/</loc>
+  </url>
+  
+  <url>
+    <loc>/analyses/results-section-three/</loc>
+  </url>
+  
+  <url>
+    <loc>/dspg/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/analyses/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/geospatial/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/networks/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+</urlset>
