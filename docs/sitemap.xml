@@ -38,7 +38,15 @@
   </url>
   
   <url>
+    <loc>/tags/app/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/collapsibletree/</loc>
   </url>
   
   <url>

@@ -1,7 +1,7 @@
 ---
 title: "Results Section One"
-description: "Project description here"
-tags: ["R", "geospatial"]
+description: "Example of embedding apps in here."
+tags: ["R", "geospatial", "app"]
 weight: 2
 draft: false
 output: html_document
@@ -18,6 +18,10 @@ Here you will frame the problem you encountered and how you plan to solve it.
 Here you will describe the data discoversy process, the data used, and the methods employed to solve your problem. 
 
 ### Main Findings 
+
+```{r, echo=FALSE, fig.fullwidth=TRUE}
+knitr::include_app('https://uva-sdad.shinyapps.io/gates-dashboard/')
+```
 
 Here you will describe the results and include important visualizations from your project. 
 
