@@ -3,38 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/analyses/general-overview/</loc>
+    <loc>/findings/general-overview/</loc>
   </url>
   
   <url>
-    <loc>/analyses/results-section-one/</loc>
+    <loc>/findings/results-section-one/</loc>
   </url>
   
   <url>
-    <loc>/analyses/results-section-two/</loc>
+    <loc>/findings/results-section-two/</loc>
   </url>
   
   <url>
-    <loc>/analyses/results-section-three/</loc>
+    <loc>/findings/results-section-three/</loc>
   </url>
   
   <url>
-    <loc>/dspg/</loc>
+    <loc>/methods/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/overview/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/team/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/analyses/</loc>
   </url>
   
   <url>
@@ -47,6 +43,10 @@
   
   <url>
     <loc>/tags/collapsibletree/</loc>
+  </url>
+  
+  <url>
+    <loc>/findings/</loc>
   </url>
   
   <url>

@@ -12,13 +12,11 @@
     
     <item>
       <title>Results Section One</title>
-      <link>/analyses/results-section-one/</link>
+      <link>/findings/results-section-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/analyses/results-section-one/</guid>
-      <description>One this page you may want to go more in-depth into one part of your project. For example, if you created isochrones or made an interactive map, you could highlight that here.
-Framing the Problem Here you will frame the problem you encountered and how you plan to solve it.
- Data and Methods Here you will describe the data discoversy process, the data used, and the methods employed to solve your problem.</description>
+      <guid>/findings/results-section-one/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Examples Page If you want to add in an image on an Rmd file, use this link here. It ends up being a little tricky, but as long as you have created a folder to insert your images, you can just use some markdown code or html to insert images in the format you want.</description>
     </item>
     
   </channel>

@@ -12,13 +12,12 @@
     
     <item>
       <title>Results Section Three</title>
-      <link>/analyses/results-section-three/</link>
+      <link>/findings/results-section-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/analyses/results-section-three/</guid>
-      <description>One this page you may want to go more in-depth into one part of your project. For example, if you created isochrones or made an interactive map, you could highlight that here.
-Framing the Problem Here you will frame the problem you encountered and how you plan to solve it.
- Data and Methods Here you will describe the data discoversy process, the data used, and the methods employed to solve your problem.</description>
+      <guid>/findings/results-section-three/</guid>
+      <description>[Here you will describe the data discoversy process, the data used, and the methods employed for this single page. Since you already have a Project Overview and Data &amp;amp; Methods tabs, you probably want to keep this first paragraph fairly short and use the rest of the document to walk your readers through your analyses.]
+Main Findings [Here you will describe the results and include important visualizations from your project.</description>
     </item>
     
   </channel>
