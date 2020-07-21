@@ -1,3 +1,7 @@
+### UVA Data Science for the Public Good Program {style=text-align:center}
+
+[The Data Science for the Public Good (DSPG) Young Scholars program](https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program) is a summer immersive program held at the [Biocomplexity Institute’s Social and Decision Analytics division (SDAD)](https://biocomplexity.virginia.edu/social-decision-analytics). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today. DSPG young scholars conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life and inform public policy. For more information on program highlights, how to apply, and our annual symposium, please visit the official [Biocomplexity DSPG website]((https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program)).
+
 ### 2020 Fairfax County Summer Project {style=text-align:center}
 
 ##### [Optional: General description of your project, team members, and how they complement each other.] {style=text-align:center}
