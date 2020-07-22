@@ -50,32 +50,30 @@ Main Findings [Here you will describe the results and include important visualiz
     </item>
     
     <item>
-      <title></title>
+      <title>Open Source Software 2020 Summer Project</title>
       <link>/methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/methods/</guid>
-      <description>2020 Fairfax County Summer Project Data and Methodology Example text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in varius purus. Nullam ut sodales ante. Fusee justo nisi, suscipit a lacus et, posuere sagittis ex. Nulla convallis ante elit, at consequat ipsum ultricies ut. Aliquam erat volutpat. nderline. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in variu convallis ante elit, at consequat ipsum ultricies ut.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Data and Methods Example text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in varius purus. Nullam ut sodales ante. Fusee justo nisi, suscipit a lacus et, posuere sagittis ex. Nulla convallis ante elit, at consequat ipsum ultricies ut. Aliquam erat volutpat. nderline. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Open Source Software 2020 Summer Project</title>
       <link>/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/overview/</guid>
-      <description>UVA Data Science for the Public Good Program The Data Science for the Public Good (DSPG) Young Scholars program is a summer immersive program held at the Biocomplexity Institute’s Social and Decision Analytics division (SDAD). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today. DSPG young scholars conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life and inform public policy.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  Project Overview Example text: Current economic indicators and indicators developed by the National Center for Science &amp;amp; Engineering Statistics (NCSES) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Open Source Software 2020 Summer Project</title>
       <link>/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/team/</guid>
-      <description>2020 Fairfax County Summer Project [Optional: General description of your project, team members, and how they complement each other.] DSPG Team Members [Photos go about here.] Susweta Ray, Fellow (PhD Student at University of Nebraska-Lincoln, Agricultural Economics), Sarah McDonald, Intern (Marymount University, Mathematics), Owen Hart, Intern (University of California, Berkeley, Economics/Data Science), and Sean Pietrowicz, Intern (Notre Dame, Mathematics)
-UVA SDAD Team Members [Photos go about here.] Teja Pristavec (Research Assistant Professor, DSPG Project Lead), Brandon Kramer (Postdocotral Research Associate), Josh Goldstein (Research Assistant Professor), Joy Tobin (Principal Scientist), Stephanie Shipp (Deputy Division Director, Research Professor), and Sallie Keller (Division Director, Distinguished Professor)</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3 { text-align: center; }  UVA Data Science for the Public Good The Data Science for the Public Good (DSPG) Young Scholars program is a summer immersive program held at the Biocomplexity Institute’s Social and Decision Analytics division (SDAD). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today.</description>
     </item>
     
   </channel>

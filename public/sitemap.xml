@@ -19,21 +19,6 @@
   </url>
   
   <url>
-    <loc>/methods/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/overview/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/team/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/app/</loc>
   </url>
   
@@ -55,6 +40,18 @@
   
   <url>
     <loc>/tags/networks/</loc>
+  </url>
+  
+  <url>
+    <loc>/methods/</loc>
+  </url>
+  
+  <url>
+    <loc>/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
   </url>
   
   <url>
